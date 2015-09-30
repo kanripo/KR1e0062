@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 三傳辨疑
-#+DATE: 2015-09-23 09:39:59
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:15:03.480203
+#+PROPERTY: ID KR1e0062
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1e0062_WYG_006-1a>¶
 欽定四庫全書¶
 　三傳辨疑卷六¶
@@ -1028,4 +1030,3 @@
 　　之諱則閔公二年出奔又何以不為之諱哉¶
 　¶
 　三傳辨疑卷六¶
-
